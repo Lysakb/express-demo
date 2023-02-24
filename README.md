@@ -11,8 +11,8 @@ Dependencies installed include:
 run `nodemon index.js`>> to run index.js
 
 ### Create route
-Method: Post
-Route: api/courses
+- Method: Post
+- Route: api/courses
 
 ### Get route
 - Method: Get
