@@ -8,6 +8,7 @@ Dependencies installed include:
 3. Joi (validation)
 
 `{npm install express nodemon joi}`
+
 run `nodemon index.js`>> to run index.js
 
 ### Create route
