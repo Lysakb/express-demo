@@ -1,4 +1,4 @@
-# Express-demo
+# Express-demo for courses
 
 This is a simple crud (create, read, update and delete) operation for courses
 
@@ -10,25 +10,25 @@ Dependencies installed include:
 `{npm install express nodemon joi}`
 run `nodemon index.js`>> to run index.js
 
-### create route
+### Create route
 Method: Post
 Route: api/courses
 
-### get route
-Method: Get
-Route: api/courses
+### Get route
+- Method: Get
+- Route: api/courses
 
-### update route
-Method: Put/:id
-Route: api/courses/:id
+### Update route
+- Method: Put/:id
+- Route: api/courses/:id
 
-### delete route
-Method: Delete/:id
-Route: api/courses/:id
+### Delete route
+- Method: Delete/:id
+- Route: api/courses/:id
 
-### get by id route
-Method: Get/:id
-Route: api/courses/:id
+### Get by id route
+- Method: Get/:id
+- Route: api/courses/:id
 
-Render url
+### Render url
 https://express-demo-yhfh.onrender.com
